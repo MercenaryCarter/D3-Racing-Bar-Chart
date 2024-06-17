@@ -1,5 +1,7 @@
 # D3-Racing-Bar-Chart
-Racing Bar Charts that are famous using D3js
+Racing Bar Charts that are famous using D3js:
+
+![D3 Racing Bar Example](https://i.imgur.com/durnbyh.png)
 
 Here is the code for those racing bar charts you see everywhere.
 
